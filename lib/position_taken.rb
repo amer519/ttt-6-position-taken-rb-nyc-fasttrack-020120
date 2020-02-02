@@ -2,7 +2,7 @@ def position_taken?(array, ind)
  
  if array[ind] == " " || "" || nil 
    return false
- else 
+ elsif 
    return true
    
  end
